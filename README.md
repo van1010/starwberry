@@ -1,5 +1,6 @@
-//Hello Oboe
+Hello Oboe
 ==========
+//This is a test
 Creates an output (playback) stream and plays a sine wave when you tap the screen.
 
 Here's an overview of the UI:
